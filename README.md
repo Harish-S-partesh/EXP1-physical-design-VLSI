@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2025-09-20 091641" src="https://github.com/user-attachments/assets/ff926bc2-45cb-46cc-900d-a39a11710226" /># Counter_4bit_up-down
+
 
 ## Aim:
 
